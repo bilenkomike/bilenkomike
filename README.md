@@ -10,9 +10,7 @@ When I'm not coding, you can find me maybe watching some movie or tv show, build
 
 ## What I'm Working On
 
-Currently, I'm focusing on:
-
-My
+Сurrently I am working as a full-stack web developer!
 
 Feel free to explore my repositories to see the code, documentation, and progress of these projects!
 
@@ -34,8 +32,8 @@ I'm always open to collaborating and connecting with fellow developers, so feel 
 
 Here are some of my top repositories you might find interesting:
 
-1. [Repository Name](Repository URL): Brief description.
-2. [Repository Name](Repository URL): Brief description.
-3. [Repository Name](Repository URL): Brief description.
+1. [blog]
+2. [btre_project]
+3. [ecom_shop]
 
 Thank you for visiting my profile. Let's connect and build the future together!
