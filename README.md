@@ -32,8 +32,8 @@ I'm always open to collaborating and connecting with fellow developers, so feel 
 
 Here are some of my top repositories you might find interesting:
 
-1. [blog]
-2. [btre_project]
-3. [ecom_shop]
+1. blog
+2. btre_project
+3. ecom_shop
 
 Thank you for visiting my profile. Let's connect and build the future together!
